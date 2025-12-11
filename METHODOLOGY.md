@@ -16,8 +16,6 @@ The Global Equity Screener is an institutional-grade equity screening and valuat
 2. **Comparable Company Analysis** - GICS-based peer selection with sector-specific multiples
 3. **Multi-Factor Quantitative Scoring** - 8-factor model calibrated for emerging market dynamics
 
-This documentation serves as the definitive reference for investment professionals seeking to understand the analytical foundations, assumptions, and limitations of each methodology.
-
 ---
 
 ## Table of Contents
@@ -41,7 +39,7 @@ This documentation serves as the definitive reference for investment professiona
 
 ### 1.1 Core Principles
 
-The platform is built on established valuation principles from leading academic and practitioner sources:
+The platform is built on valuation principles from leading academic and practitioner sources:
 
 | Principle | Source | Application |
 |-----------|--------|-------------|
@@ -1111,22 +1109,13 @@ global-equity-screener/
 ## Author
 
 **Nathaniel Luu**
-Investment Analyst Intern | TCW Bahana Asset Management
+Investment Analyst Intern | AXA Mandiri Financial Services
 Jakarta, Indonesia
 
 *Research conducted during internship program, Fall 2025*
 
 ---
 
-### Contact & Repository
-
-- **GitHub:** [github.com/theresa12345-scp/natan-equity-research](https://github.com/theresa12345-scp/natan-equity-research)
-- **Live Demo:** Available upon request
-
----
-
 *Global Equity Screener*
-*Built with institutional-grade methodology for professional investors*
-*Methodology: CFA Institute • Damodaran (NYU Stern) • Rosenbaum & Pearl*
 
 *Last Updated: December 2025*
